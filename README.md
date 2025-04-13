@@ -65,6 +65,11 @@ For now, this is as far as I'm going with this software. It works, that works fo
 BUT, what I will add over time are goals. They're not too hard to add, I just need to find some more. As such, if you have any ideas for goals I could add, simple send them over to me on either Reddit (u/DarkFluo) or on Discord (darkfluo). Please send a message that features your goals and suggestions, and not a simple "Hello !", send the stuff right away. I'll try to often update this software on whatever place I put it on to share it
 
 
+# ---/// Contact ///---
+
+In case you need to contact me for any reason, please DM me on either Reddit (u/DarkFluo) or Discord (darkfluo)
+
+
 # ---/// Credits ///---
 
 Most of the goals in this software aren't by me. There's from a Reddit post I made asking people for their own goals. The credits for each goal is accessible within the software through the "Credit" button in the settings screen. Goals that aren't featured are either by me or users that preferred not being credited. 
